@@ -31,3 +31,13 @@ Cons:
 
 - Requires additional development for API endpoints and authorization.
 - May require additional setup and configuration for hosting the API.
+
+## Task list with high-level estimations (hours or man-days):
+
+- Set up the NewsAPI project structure and dependencies (1 day).
+- Implement API endpoints for retrieving news articles (2 hours).
+- Create Entities and Database connection (2 hours)
+- Create repositories for news articles and subscriptions (4 hours).
+- Implement the trading news service and associated endpoints (2 hours).
+- Implement the subscription service and associated endpoints (2 hours).
+- Test and debug the API endpoints and services (4 hours).
