@@ -41,3 +41,7 @@ Cons:
 - Implement the trading news service and associated endpoints (2 hours).
 - Implement the subscription service and associated endpoints (2 hours).
 - Test and debug the API endpoints and services (4 hours).
+
+## TODO
+- Unit Tests
+- Logger
